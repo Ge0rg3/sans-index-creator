@@ -23,7 +23,7 @@ For something to be counted as a "word" (and therefore added to the index), it h
 * Is not a link
 
 ## Output example
-Here is a snipper of the output for a course pdf:
+Here is a snippet of the output for a course pdf:
 ```
 shell-item: 2(38)
 shellbag-hives: 2(59)
